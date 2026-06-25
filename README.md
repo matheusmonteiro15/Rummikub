@@ -11,7 +11,9 @@ Uma adaptação digital do clássico jogo de tabuleiro Rummikub, construída int
 
 ## 📸 Capturas de Tela
 
-*(Adicione suas capturas de tela aqui)*
+![Menu Inicial](screenshots/menu.png)
+
+![Tela Principal da Partida](screenshots/gameplay.png)
 
 ## 🚀 Como Executar
 
