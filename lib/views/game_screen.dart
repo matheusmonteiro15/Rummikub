@@ -89,7 +89,7 @@ class _GameScreenState extends State<GameScreen> {
               ),
               const SizedBox(height: 6),
               const Text(
-                'Criado especialmente para o Papai',
+                'Criado especialmente para pai',
                 style: TextStyle(
                   color: Colors.white54,
                   fontSize: 14,
@@ -244,7 +244,7 @@ class _GameScreenState extends State<GameScreen> {
 
   void _startNewGame() {
     final List<Player> newPlayers = [
-      Player(id: 'human', name: 'Você (Papai)', isHuman: true),
+      Player(id: 'human', name: 'Você (Pai)', isHuman: true),
     ];
 
     for (int i = 0; i < _opponentCount; i++) {
